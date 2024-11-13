@@ -1,0 +1,9 @@
+# レースに使うデータ
+race_data
+player_2020f
+testdata
+*.csv
+*.zip
+# 仮想環境
+/venv/
+lib/
